@@ -1,1 +1,2 @@
 It's me, Frobi :)
+I'm learning how to use Git & GitHub
