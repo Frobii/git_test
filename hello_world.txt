@@ -1,3 +1,4 @@
 It's me, Frobi :)
 I'm learning how to use Git & GitHub
 I'm testing some features out
+Testing some more, git commit will work differently now
